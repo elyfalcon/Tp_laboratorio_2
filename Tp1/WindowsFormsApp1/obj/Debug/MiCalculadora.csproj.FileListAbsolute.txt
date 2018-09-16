@@ -1,0 +1,11 @@
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Eli\2do Cuatri\Prog II\Tps\Entidades\WindowsFormsApp1\obj\Debug\LaCalculadora.Form1.resources

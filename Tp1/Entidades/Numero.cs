@@ -10,7 +10,10 @@ namespace Entidades
     {
         private double numero;
 
-       public double ValidarNumero(string Numero)
+
+
+
+       private static double ValidarNumero(string Numero)
         {
             double num;
             bool esNumero;
@@ -28,7 +31,7 @@ namespace Entidades
         }
         private void SetNumero(string numero)
         {
-            this.numero = (this.ValidarNumero(numero));
+            this.numero = ValidarNumero(numero);
         }
 
         public Numero() { }
@@ -86,6 +89,39 @@ namespace Entidades
             
   
         }
+        public static string DecimalBinario(double numero)
+        {
+            string binario = "";
+            if(numero <0)
+            {
+                return "Valor Invalido";
+            }
+            while (numero > 1)
+            {
+                if (numero % 2 == 1)
+                {
+                    binario = "1" + binario;
+                }
+                else
+                {
+                    binario = "0" + binario;
+                }
+
+                numero = (int)numero / 2;
+            }
+            return binario;
+        }
+        public static string DecimalBinario(string numero)
+        {
+            double num;
+            num = Convert.ToDouble(numero);
+            return DecimalBinario(numero);
+
+        }
+
+
+
+
 
         #endregion
     }
