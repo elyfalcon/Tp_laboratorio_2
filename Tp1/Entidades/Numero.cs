@@ -10,10 +10,13 @@ namespace Entidades
     {
         private double numero;
 
+        public void SetNumero(string strnumero)
+        {
+            numero = ValidarNumero(strnumero);
+        }
 
 
-
-       private static double ValidarNumero(string Numero)
+        private static double ValidarNumero(string Numero)
         {
             double num;
             bool esNumero;
@@ -29,10 +32,7 @@ namespace Entidades
             }
             return num;
         }
-        private void SetNumero(string numero)
-        {
-            this.numero = ValidarNumero(numero);
-        }
+        
 
         public Numero() { }
 
@@ -42,6 +42,7 @@ namespace Entidades
         {
             SetNumero(numero);
         }
+        
 
         #region Sobrecargas
         public static double operator +(Numero num1,Numero num2)
@@ -63,7 +64,7 @@ namespace Entidades
         #endregion
         #region Metodos
 
-        public static string BinarioDecimal(string binario)
+        public string BinarioDecimal(string binario)
         {
             double num = 0;
             string retorno=" ";
@@ -89,7 +90,7 @@ namespace Entidades
             
   
         }
-        public static string DecimalBinario(double numero)
+        public string DecimalBinario(double numero)
         {
             string binario = "";
             if(numero <0)
@@ -111,13 +112,23 @@ namespace Entidades
             }
             return binario;
         }
-        public static string DecimalBinario(string numero)
+        public string DecimalBinario(string numero)
         {
-            double num;
-            num = Convert.ToDouble(numero);
-            return DecimalBinario(numero);
+            
+            SetNumero(numero);
+            //num = Convert.ToDouble(numero);
+            if(this.numero !=0)
+            {
+            return DecimalBinario(this.numero);
+            }
+            else
+            {
+                return "Valor Invalido";
+            }
 
         }
+
+       
 
 
 

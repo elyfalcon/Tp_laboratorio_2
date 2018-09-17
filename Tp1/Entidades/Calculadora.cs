@@ -11,23 +11,24 @@ namespace Entidades
 
         static public double Operar(Numero num1, Numero num2, string operador)
         {
-            double retorno;
+          //  double retorno;
 
             switch (ValidarOperador (operador))
             {
                 case "+":
-                    retorno = num1 + num2;
-                    break;
+                    return num1 + num2;
+                    
                 case "*":
-                    retorno = num1 * num2;
-                    break;
+                    return  num1 * num2;
+                    
                 case "/":
-                    retorno = num1 / num2;
-                    break;
+                    return  num1 / num2;
+                    
                 default:
                     return 0;
+                    
             }
-            return retorno;
+            
 
         }
 
