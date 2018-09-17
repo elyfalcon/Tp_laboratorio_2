@@ -1,0 +1,10 @@
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.LaCalculadora.resources
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.pdb

@@ -1,7 +1,0 @@
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\bin\Debug\Entidades.exe.config
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\bin\Debug\Entidades.exe
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\bin\Debug\Entidades.pdb
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\obj\Debug\Entidades.exe
-C:\Eli\2do Cuatri\Prog II\Tps\Entidades\Entidades\obj\Debug\Entidades.pdb
