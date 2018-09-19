@@ -109,7 +109,7 @@ namespace Entidades
             {
                 return "Valor Invalido";
             }
-            while (numero > 1)
+            while (numero > 1 )
             {
                 if (numero % 2 == 1)
                 {

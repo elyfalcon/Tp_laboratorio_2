@@ -75,7 +75,7 @@ namespace Entidades
                 {
                     if (numero2 == 0 && operador == "/")
                     {
-                        lblResultado.Text = "No se puede /";
+                        lblResultado.Text = "No se puede dividir";
 
                     }
                     else
@@ -100,6 +100,7 @@ namespace Entidades
             txtNumero1.Text = "";
             txtNumero2.Text = "";
             lblResultado.Text = "";
+            cmbOperador.Text = "";
         }
 
     }
