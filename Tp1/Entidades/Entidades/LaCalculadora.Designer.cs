@@ -41,12 +41,14 @@
             // 
             // btnConvertirADecimal
             // 
+            this.btnConvertirADecimal.BackColor = System.Drawing.SystemColors.Control;
+            this.btnConvertirADecimal.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnConvertirADecimal.Location = new System.Drawing.Point(253, 191);
             this.btnConvertirADecimal.Name = "btnConvertirADecimal";
             this.btnConvertirADecimal.Size = new System.Drawing.Size(143, 34);
             this.btnConvertirADecimal.TabIndex = 19;
             this.btnConvertirADecimal.Text = "Convertir a Decimal";
-            this.btnConvertirADecimal.UseVisualStyleBackColor = true;
+            this.btnConvertirADecimal.UseVisualStyleBackColor = false;
             this.btnConvertirADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // btnConvertirABinario
@@ -146,7 +148,7 @@
             this.MinimizeBox = false;
             this.Name = "LaCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Mi Calculadora";
+            this.Text = "Mi Calculadora Elizabeth Falcon 2A";
             this.Load += new System.EventHandler(this.LaCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

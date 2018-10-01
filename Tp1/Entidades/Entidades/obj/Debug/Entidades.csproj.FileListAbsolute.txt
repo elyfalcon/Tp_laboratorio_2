@@ -8,3 +8,12 @@ C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.csproj.Generate
 C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.exe
 C:\DESARROLLOS\Ely\Tp1_N\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.LaCalculadora.resources
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Eli\2do Cuatri\Prog II\Tps\Tp_laboratorio_2\Tp1\Entidades\Entidades\obj\Debug\Entidades.pdb
